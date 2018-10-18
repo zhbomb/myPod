@@ -8,6 +8,8 @@
 
 @import UIKit;
 
+#import "LampPanelSettingNickNameCell.h"
+
 @interface softbombViewController : UIViewController
 
 @end

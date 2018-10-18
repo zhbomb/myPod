@@ -1,0 +1,22 @@
+{
+  "name": "myPod",
+  "version": "0.1.0",
+  "summary": "A short description of myPod.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/zhbomb/myPod",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "zhbomb": "tanwf@yoyon.net"
+  },
+  "source": {
+    "git": "https://github.com/zhbomb/myPod.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "myPod/Classes/**/*"
+}
